@@ -1,0 +1,6 @@
+{
+  "name": "Brain Gym - Cognitive Training Suite",
+  "description": "Interactive brain training suite with 10 cognitive mini-games testing memory, attention, reaction speed, mental flexibility, and arithmetic with multi-language support and brain rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
